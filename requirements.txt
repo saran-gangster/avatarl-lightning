@@ -1,0 +1,8 @@
+torch
+pytorch-lightning
+transformers
+datasets
+tiktoken
+wandb
+tqdm
+requests
