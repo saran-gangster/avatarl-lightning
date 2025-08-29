@@ -52,4 +52,9 @@ Fallback to CPU by default - For debugging if any.
 python train.py --batch_size 4 --precision "32-true" --no_compile
 ```
 
+
+### Credits
+
+Check [avatarl](https://github.com/tokenbender/avataRL)
+
 For more options please see lightning official docs for [strategy](https://lightning.ai/docs/pytorch/stable/extensions/strategy.html) and [mixed_precision](https://lightning.ai/docs/pytorch/1.5.9/advanced/mixed_precision.html).
